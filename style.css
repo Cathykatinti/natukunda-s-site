@@ -1,0 +1,64 @@
+
+
+.bio{
+  background-color: rgb(202, 120, 120);
+    width:200px;
+    height:100px;
+    float:left;
+    cursor:pointer;
+    transition: background 0.4s;
+    }
+    .bio:hover{
+        background-color: yellow;
+    }
+.photo{
+    background-color: rgb(84, 84, 218);
+    width:200px;
+    height:100px;
+    margin-left:400px;
+    transition: background 0.4s;
+}
+ .photo:hover{
+    background-color: yellow;
+ }  
+.education{
+    background-color: lightslategray;
+    width:200px;
+    height:200px;
+    margin-left:200px;
+    transition: background 0.4s;
+}
+.education:hover{
+    background-color: yellow;
+}
+.hobbies{
+    background-color: rgb(14, 14, 219);
+    width:200px;
+    height:200px;
+    float:left;
+    transition: background 0.4s;
+}
+.hobbies:hover{
+    background-color: yelow;
+}
+.contact{
+    background-color: rgb(240, 181, 123);
+    width:200px;
+    height:200px;
+    margin-left:400px;
+    transition: background 0.4s;
+}
+.contact:hover{
+    background-color: yellow;
+}
+
+a{
+    color:black;
+    font-size: x-large;
+    text-align: center;
+    position :relative;
+    top:40px;
+}
+a:hover{
+    background-color: brown;
+}
